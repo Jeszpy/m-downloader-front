@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/m-downloader-front/static/css/main.8ac1fc7a.css",
-    "main.js": "/m-downloader-front/static/js/main.b615c0ac.js",
+    "main.js": "/m-downloader-front/static/js/main.f020d3ac.js",
     "index.html": "/m-downloader-front/index.html",
     "main.8ac1fc7a.css.map": "/m-downloader-front/static/css/main.8ac1fc7a.css.map",
-    "main.b615c0ac.js.map": "/m-downloader-front/static/js/main.b615c0ac.js.map"
+    "main.f020d3ac.js.map": "/m-downloader-front/static/js/main.f020d3ac.js.map"
   },
   "entrypoints": [
     "static/css/main.8ac1fc7a.css",
-    "static/js/main.b615c0ac.js"
+    "static/js/main.f020d3ac.js"
   ]
 }
