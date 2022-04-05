@@ -10,8 +10,8 @@ function App() {
         <div>
             <Navbar/>
             <Routes>
-                <Route path="/m-downloader-front" index element={<Download />} />
-                <Route path="/m-downloader-front/collection" element={<Collection />} />
+                <Route path="/m-downloader-front/" index element={<Download />} />
+                <Route path="/m-downloader-front/collection/" element={<Collection />} />
             </Routes>
         </div>
     );
