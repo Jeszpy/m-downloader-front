@@ -9,7 +9,7 @@ function App() {
     return (
         <div>
             <Navbar/>
-            <Routes>
+            <Routes path="/m-downloader-front">
                 <Route path="/" index element={<Download />} />
                 <Route path="/collection" element={<Collection />} />
             </Routes>
