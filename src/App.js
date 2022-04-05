@@ -9,9 +9,9 @@ function App() {
     return (
         <div>
             <Navbar/>
-            <Routes path="/m-downloader-front">
-                <Route path="/" index element={<Download />} />
-                <Route path="/collection" element={<Collection />} />
+            <Routes>
+                <Route path="/m-downloader-front" index element={<Download />} />
+                <Route path="/m-downloader-front/collection" element={<Collection />} />
             </Routes>
         </div>
     );
