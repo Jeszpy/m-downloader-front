@@ -59,7 +59,7 @@ const Collection = () => {
         })
     }, [])
 
-    return <div style={{display: "grid", gridTemplateColumns: '1fr 1fr 1fr 1fr 1fr', margin: '50px', paddingBottom: '50px'}}>
+    return <div style={{display: "grid", gridTemplateColumns: '1fr 1fr 1fr', margin: '50px', paddingBottom: '50px'}}>
         {collection.map(el => <CardItem key={el.id} id={el.id} title={el.title} cdn={el.cdn} img={el.img}/>)}
     </div>
 
