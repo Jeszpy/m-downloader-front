@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jeszpy/m-downloader-front/static/css/main.8ac1fc7a.css",
+    "main.js": "/Jeszpy/m-downloader-front/static/js/main.e1162172.js",
+    "index.html": "/Jeszpy/m-downloader-front/index.html",
+    "main.8ac1fc7a.css.map": "/Jeszpy/m-downloader-front/static/css/main.8ac1fc7a.css.map",
+    "main.e1162172.js.map": "/Jeszpy/m-downloader-front/static/js/main.e1162172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac1fc7a.css",
+    "static/js/main.e1162172.js"
+  ]
+}
