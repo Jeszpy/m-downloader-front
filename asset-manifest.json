@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/m-downloader-front/static/css/main.8ac1fc7a.css",
-    "main.js": "/m-downloader-front/static/js/main.1891f82c.js",
+    "main.css": "/m-downloader-front/static/css/main.bad9281f.css",
+    "main.js": "/m-downloader-front/static/js/main.f020d3ac.js",
     "index.html": "/m-downloader-front/index.html",
-    "main.8ac1fc7a.css.map": "/m-downloader-front/static/css/main.8ac1fc7a.css.map",
-    "main.1891f82c.js.map": "/m-downloader-front/static/js/main.1891f82c.js.map"
+    "main.bad9281f.css.map": "/m-downloader-front/static/css/main.bad9281f.css.map",
+    "main.f020d3ac.js.map": "/m-downloader-front/static/js/main.f020d3ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ac1fc7a.css",
-    "static/js/main.1891f82c.js"
+    "static/css/main.bad9281f.css",
+    "static/js/main.f020d3ac.js"
   ]
 }
